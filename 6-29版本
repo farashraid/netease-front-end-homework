@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+<meta charset="utf-8"/>
+<title>前端微专业大作业</title>
+<script type="text/JavaScript"  src="js/script.js"></script>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<meta name="viewport" content="width=device-width"/>
+<link rel="stylesheet" href="web1.css"/>
+<link rel="stylesheet" href="webstyle1.css"/>
+<link rel="shortcut icon" href="img/favicon.ico"/>
+<link rel="apple-touch-icon" href="img/touchicon.png"/>
+</head>
+<body>
+<div class="g-doc">
+    <div class="g-headbar">
+          <div class="topbar">
+             <div class="comwidth">
+                 <div class="leftarea">
+                     <p>网易云课堂微专业，帮助你掌握专业技能，令你求职或加薪多一份独特优势! <a href=""><span class="leftareaon">立即查看></span></a></p>
+
+                 </div>
+                 <div class="rightarea">
+                     <div class="ra-close"></div>
+                     <p>不再提醒</p>
+                 </div>
+             </div>
+          </div>
+          <div class="logbar">
+            <div class="comwidth">
+                <div class="log">
+                    
+                    
+                        <span class="log1">EDU</span>
+                        <span class="log3">网易教育产品部</span>
+                    
+                </div>
+                <div class="focus">
+                    <span class="focusstyle"><em>+</em>&nbsp;&nbsp;关注</span>
+                    <span class="focustext">粉丝</span>
+                    <span class="focusnum">0</span>
+                </div>
+                <div class="search">
+                    <ul>
+                         <li><a href="http://www.icourse163.org/">中国大学MOOC</a></li>
+
+                          <li><a href="http://study.163.om/">云课堂</a></li>
+                        <li><a href="http://open.163.com/">网易公开课</a></li>
+                       
+                      
+                    </ul>
+                    <!<input type="logbutton" class="search_btn">
+                </div>
+            </div>
+          </div>
+    </div>
+    <div class="g-main">
+        <div id="g-turn">
+              <div id="list">
+                  <img src="banner3.jpg" alt="3" width="1616";height="460";>
+                  <!--<img src="banner1.jp" alt="1">
+                  <img src="banner2.jp" alt="2">
+                  <img src="banner3.jp" alt="3">
+                  <img src="banner1.jp" alt="1">-->
+              </div>
+              <div id="turnbuttons">
+                  <span index="1" class="on"></span>
+                  <span index="2"></span>
+                  <span index="3"></span>
+              </div>
+        </div>
+        <div class="g-word">
+              <div class="comwidth">
+                <div class="3words">
+                  <div class="wangyipublic">
+                    <div class=""></div>
+                    <div class="wintro">
+                      <p><span class="w-title">网易公开课</span><br>推出国内外名校公开课，涉及广泛的学科，名校老师深度讲解认真剖析，网易视频公开课频道搭建起强有力的网络视频教学平台。<br><br><span class="w-more"><a href="">了解更多&nbsp;></a></span></p>
+                    </div>
+                  </div>
+                  <div class="yunclass">
+                    <div></div>
+                    <div class="yintro">
+                    <p><span class="w-title">云课堂</span><br>网易旗下大型在线学习平台，该平台面向学习者提供海量免费、优质课程，。创新的个性化学习体验，自由开放的交流互动环境。<br><br><a href="">了解更多&nbsp;></a></p>
+                    </div>
+                  </div>
+                  <div class="chinamooc">
+                    <div></div>
+                    <div class="cintro">
+                      <p><span class="w-title">中国大学MOOC</span><br>是爱课程网携手云课堂打造的在线学习平台，每一个有提升愿望的人都可以在这里学习中国最好的大学课程，学完还能获得认证证书。<br><br><a href="">了解更多&nbsp;></a></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </div>
+        <div class="g-pict">
+            <div class="pict1">
+              
+            </div>
+            <div class="pict2">
+              
+            </div>
+            <div class="pict3">
+              
+            </div>
+            <div class="pict4">
+              
+            </div>
+            <div class="pict5">
+              
+            </div>
+        </div>
+        <div class="g-detail">
+          <div class="comwidth">
+            <div class="g-db">
+                  <div id="notice" class="notice">
+                    <div id="notice-tit" class="notice-tit">  
+                      <ul>
+                        <li class="nt-wd1">
+                          产品设计
+                        </li>
+                        <li class="nt-wd">
+                          编程设计
+                        </li>
+                      </ul>
+                    </div>
+                    <div id="notice-con" class="notice-con">
+                      <div class="mod" style="display:block">
+                        <ul>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+
+
+                        </ul>
+                      </div>
+                      <div class="mod" style="display:none">
+                        <ul>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+                          <li>
+                            <a href="">
+                              12
+                            </a>
+                          </li>
+
+
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+            </div>
+            <div class="g-sd">
+                1
+            </div>
+          </div>
+        </div>
+    </div>
+    <div class="g-ft">
+       <div class="ft1">
+                        <span class="log1">EDU</span>
+                        <span class="log3">网易教育产品部</span>
+                        <p class="ft1w">©2014 icourse163.org 浙ICP备08114786号-1<br>icourses.cn 京ICP备12020869号-2&nbsp;京公网安备110102000459-2</p>
+       </div>
+       <div class="ft2">
+         <p class="ft2w1">友情链接&nbsp;：</p>
+         <div id="ft2w2">
+            <a href="http://www.icourse163.org/">中国大学MOOC</a>
+
+            <li><a href="http://study.163.om/">云课堂</a></li>
+            <li><a href="http://open.163.com/">网易公开课</a></li>
+         </div>
+       </div>
+       <div class="ft3">
+         <p class="ft3w1">
+           我们：
+         </p>
+         <p class="ft3w2">
+           关于<br>
+           联系<br>
+           关注
+         </p>
+       </div>
+       <div class="ft4">
+         <p class="ft4w1">
+           更多&nbsp;：
+         </p>
+         <p class="ft4w2">
+           常见问题<br>
+           意见反馈
+         </p>
+       </div>
+    </div>
+</div>
+</body>
+</html>
